@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671527410896",
+    "project_id": "loikawtour-fb8aa",
+    "storage_bucket": "loikawtour-fb8aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671527410896:android:36243ce66fce42f84f12d5",
+        "android_client_info": {
+          "package_name": "com.mti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671527410896-a716nm79q5jnmg5mtf6tf71sl7re0klj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCINOb8upD688OZHb5qNpj4O8Fidc_uPww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671527410896-a716nm79q5jnmg5mtf6tf71sl7re0klj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
